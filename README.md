@@ -1,5 +1,6 @@
-C:\Users\ACER\Downloads\4b20727f-71bb-4f37-9cdb-9b895a1494cf.png
-# Codex Energy Drink Marketing Strategy
+
+# ![image](https://github.com/priyagupta52/Codex/assets/145066697/cba79260-bb39-4f16-90af-37d8cabd6109)
+Codex Energy Drink Marketing Strategy
 
 This repository contains the marketing strategy for Codex energy drink in India.
 
