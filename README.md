@@ -1,3 +1,4 @@
+C:\Users\ACER\Downloads\4b20727f-71bb-4f37-9cdb-9b895a1494cf.png
 # Codex Energy Drink Marketing Strategy
 
 This repository contains the marketing strategy for Codex energy drink in India.
