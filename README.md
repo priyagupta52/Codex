@@ -1,12 +1,12 @@
 
 # ![image](https://github.com/priyagupta52/Codex/assets/145066697/cba79260-bb39-4f16-90af-37d8cabd6109)
-Codex Energy Drink Marketing Strategy
+CODEX ENERGY DRINK MARKETING STRATEGY
 
-This repository contains the marketing strategy for Codex energy drink in India.
+This repository contains the marketing strategy for the Codex energy drink in India.
 
 ## Project Overview
 
-Codex is a German beverage company that is looking to expand its market into India. They have already launched their energy drink in 10 Indian cities. The goal of this project is to develop a comprehensive marketing strategy to help Codex achieve its objectives in the Indian market.
+Codex is a German beverage company looking to expand its market into India. They have already launched their energy drink in 10 Indian cities. This project aims to develop a comprehensive marketing strategy to help Codex achieve its objectives in the Indian market.
 
 ## Objectives
 
